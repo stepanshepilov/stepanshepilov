@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @stepanshepilov
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 👀 I’m interested in machine learning
 - 📫 How to reach me senior level?
 
 <!---
